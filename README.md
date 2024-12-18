@@ -24,7 +24,7 @@ Welcome to **Attendence App Location**, a modern, cross-platform mobile applicat
    git clone https://github.com/yourusername/yourproject.git](https://github.com/yashijais5/Attendance_App_Location.git)
    ```
 
-## ❤️ Acknowledgments
+## Acknowledgments
 
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
